@@ -24,6 +24,6 @@
 [학습 로드맵]
 
 ## 변경사항 커밋 및 푸시
-git add .
-git commit -m "[INIT] 초기 폴더 구조 및 README 설정"
-git push origin main
+- git add .
+- git commit -m "[INIT] 초기 폴더 구조 및 README 설정"
+- git push origin main
