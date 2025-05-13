@@ -12,8 +12,7 @@ public class 쿠키의_신체_측정 {
             }
         }
 
-        int heart_x = 0;
-        int heart_y = 0;
+        int heart_x = 0, heart_y = 0;
 
         for(int i=1; i<N-1; i++){
             for(int j=1; j<N-1; j++){
@@ -41,7 +40,7 @@ public class 쿠키의_신체_측정 {
                 break;
             }
         }
-        for(int i= back_y+1; i<N; i++){
+        for(int i= back_y+1; i<N; i++){ 
             if(arr[i][heart_x-1] == '*') leftLeg++;
         }
          for(int i= back_y+1; i<N; i++){
