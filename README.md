@@ -3,13 +3,16 @@
 
 ## 폴더 구조
 - daily-logs: 일일 학습 기록
+  - dongju : 일일 학습 기록
+  - minho : 일일 학습 기록
 - weekly-reviews: 주간 회고
 - problem-solving: 문제 풀이 코드
   - baekjoon: 백준 문제 풀이
   - leetcode: 리트코드 문제 풀이
   - programmers: 프로그래머스 문제 풀이
-- algorithms: 알고리즘 구현 및 설명
-  - sorting: 정렬 알고리즘
+- algorithms: 개인용 알고리즘 정리
+  - greedy: 그리디 알고리즘
+  - implementation : 구현 알고리즘
   - graph: 그래프 알고리즘
   - dynamic-programming: 동적 프로그래밍
 - resources: 유용한 자료 모음
